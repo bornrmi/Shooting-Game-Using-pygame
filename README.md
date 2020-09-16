@@ -4,5 +4,5 @@ requirements :
   pygame
   
   
-  Just download, extract, open terminal and run__
+  Just download, extract, open terminal and run \
   $python main.py
